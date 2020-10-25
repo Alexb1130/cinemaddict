@@ -9,7 +9,7 @@ import Api from './api';
 import Profile from './view/profile';
 import Statistics from './view/statistics';
 
-const AUTHORIZATION = `Basic eo0w590ik23849p`;
+const AUTHORIZATION = `Basic eo1w590ik23849p`;
 const END_POINT = `https://12.ecmascript.pages.academy/cinemaddict`;
 
 const api = new Api(END_POINT, AUTHORIZATION);
